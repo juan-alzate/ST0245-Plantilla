@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ dibujar()
+comment1.params=n
+comment1.target=java.lang.String\ dibujar(Nodo)
+comment2.params=nodo\ n
+comment2.target=boolean\ buscar(Nodo,\ int)
+comment3.params=n
+comment3.target=boolean\ buscar(int)
+comment4.params=nodo\ n
+comment4.target=void\ insertar(Nodo,\ int)
+comment5.params=n
+comment5.target=void\ insertar(int)
+numComments=6
